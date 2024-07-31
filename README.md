@@ -1,6 +1,7 @@
-# ![word happiness report](https://github.com/user-attachments/assets/6885ea41-cec6-4263-afe1-7e617d1258a4)
 𝐖𝐨𝐫𝐥𝐝 𝐇𝐚𝐩𝐩𝐢𝐧𝐞𝐬𝐬 𝐑𝐞𝐩𝐨𝐫𝐭 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝: 𝐍𝐢𝐠𝐞𝐫𝐢𝐚 𝐯𝐬. 𝐭𝐡𝐞 𝐖𝐨𝐫𝐥𝐝 
-hashtag#endBadGovernanceINnigeria hashtag#endbadGovernanceProstest
+
+# ![word happiness report](https://github.com/user-attachments/assets/6885ea41-cec6-4263-afe1-7e617d1258a4)
+
 
 The World Happiness Report dashboard provides a comparative analysis of happiness scores and related factors for Nigeria, the top ten happiest countries, and the ten unhappiest countries. The dashboard is segmented into several charts and visualizations to give a comprehensive understanding of global happiness trends.
 
